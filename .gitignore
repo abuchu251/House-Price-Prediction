@@ -21,7 +21,6 @@ build/
 
 ## Generated machine-learning outputs
 data/processed/
-models/
 
 ## OS and editor files
 .DS_Store
