@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 from xgboost import XGBRegressor
-model = joblib.load(r'C:\Users\Kendie\Desktop\projects\ml projects\house price prediction\models\house_price_model.pkl')
+model = joblib.load(r'..\models\house_price_model.pkl')
 
 import sys
 st.write(sys.executable)
